@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 USDT Whale Watcher – keep an eye on big USDT moves.
-Friendly, human-authored style. Inspired by whale-alert bots.
 """
 
 import os
